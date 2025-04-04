@@ -1,4 +1,4 @@
-boolean bot = true;
+boolean bot = true; //Is bot Enabled
 boolean botIsWhite = false;
 int startTime;
 int duration = 1000;
